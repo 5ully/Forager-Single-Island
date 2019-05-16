@@ -13,6 +13,6 @@ Guide to downloading and installing constructed save files:
 2. Open up folder where Forager savefiles are located, this is th location on windows:
   %localappdata%/Forager
 3. Move SingleIslandAllStructures_1.0.3_X.X into the local save file and rename it savefileX.txt. Replace the X with the number of the slot you want to use (0 is left, 1 is middle, 2 is right).
-4. Run foragerand create a new game from the slot you picked above.
+4. Run forager and create a new game from the slot you picked above.
 
 pxoxd#3726
